@@ -6,4 +6,4 @@ const About = props => (
 
     </div>
 )
-export default <About></About>
+export default About
